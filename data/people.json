@@ -1,0 +1,22 @@
+[
+    {
+        "version": "v1",
+        "data": {
+            "name": "Yoda"
+        }
+    },
+    {
+        "version": "v2",
+        "data": {
+            "name": "Luke",
+            "race": "human"
+        }
+    },
+    {
+        "version": "v2",
+        "data": {
+            "name": "Ackbar",
+            "race": "mon calamari"
+        }
+    }
+]

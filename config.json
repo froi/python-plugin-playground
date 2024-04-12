@@ -1,0 +1,6 @@
+{
+    "parsers": [
+        "parsers.person_parser_v1",
+        "parsers.person_parser_v2"
+    ]
+}
