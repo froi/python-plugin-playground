@@ -18,5 +18,13 @@
             "name": "Ackbar",
             "race": "mon calamari"
         }
+    },
+    {
+        "version": "v3",
+        "data": {
+            "name": "Darth Vader",
+            "race": "cyborg",
+            "alignment": "dark side"
+        }
     }
 ]
